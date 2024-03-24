@@ -26,7 +26,7 @@ This Snake Game allows players to control a snake using arrow keys to navigate a
 2. Install Pygame library by running `pip install pygame`.
 3. Clone or download this repository.
 4. Navigate to the directory containing the game files.
-5. Run `python snake_game.py` to start the game.
+5. Run `python Game.py` to start the game.
 
 ## License
 
