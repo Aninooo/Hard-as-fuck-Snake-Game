@@ -59,7 +59,7 @@ def display_instructions():
         "",
         "Press ENTER to start the game.",
         "",
-        "*** Warning: This game may not make you happy! ***"  # Warning message
+        "*** Warning: This game may not make you happy! ***"  
     ]
 
     total_height = len(instruction_texts) * 20
